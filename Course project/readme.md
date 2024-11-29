@@ -9,4 +9,4 @@
 # References
 - The research paper, published in AAAI-24: [Counterfactually Aware Fair Text Generation](https://ojs.aaai.org/index.php/AAAI/article/view/29719).
 - Special thanks to the authors: Pragyan Banerjee, Abhinav Java, Surgan Jandial, Simra Shahid, Shaz Furniturewala, Balaji Krishnamurthy, Sumit Bhatia
-- The code for CAFIE was referred to from [Pragyan Banerjee's official github page](https://github.com/banerjeepragyan), the rpository for the same being: [CAFIE](https://github.com/banerjeepragyan/CAFIE).
+- The code for CAFIE was referred to from [Pragyan Banerjee's official github page](https://github.com/banerjeepragyan), the repository for the same being: [CAFIE](https://github.com/banerjeepragyan/CAFIE).
